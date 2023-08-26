@@ -3,3 +3,5 @@ start_6645_default.bat
 txData/admins.json
 txData/default
 txData/AstroWorld/cache
+txData/AstroWorld/server.cfg
+txData/AstroWorld/server.cfg.bkp
