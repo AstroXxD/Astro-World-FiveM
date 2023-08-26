@@ -1,0 +1,5 @@
+server-data/*
+start_6645_default.bat
+txData/admins.json
+txData/default
+txData/AstroWorld/cache
